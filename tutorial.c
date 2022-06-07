@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "src/KrowKrypt.h" // Esse arquivo contém todas as funções da API
+#include "src/encryptor.h" // Esse arquivo contém todas as funções da API
 
 int main()
 {
