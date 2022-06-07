@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "Krypt.h"
+#include "crypt.h"
 
 // Criptografa arquivo
 void Encrypt(const char* filePath, const char* keyPath, int key)
