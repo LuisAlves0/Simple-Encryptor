@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "Key.h"
+#include "key.h"
 
-// Gera uma chave aleatória...
+// Gera uma chave aleatÃ³ria...
 int GenerateKey()
 {
 	static int init = 0;
